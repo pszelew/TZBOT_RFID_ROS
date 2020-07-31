@@ -1,0 +1,11 @@
+uint16 ComIdByte
+uint16 CardReadingByte
+uint16 SignalStrength
+uint16 CardData8
+uint16 CardData7
+uint16 CardData6
+uint16 CardData5
+uint16 CardData4
+uint16 CardData3
+uint16 CardData2
+uint16 CardData1
